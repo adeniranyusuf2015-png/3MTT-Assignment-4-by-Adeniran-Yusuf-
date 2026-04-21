@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-<title>3MTT SOFTWARE DEV</title>
 <body>
 <div class="header"><h1 style="background-color: green; color: white;">BASIC DATA FORM</h1>
 <!-- Submit Form-->
@@ -38,4 +36,4 @@
 <input type ="reset">
 
 <input type ="submit">
-</form></body>
+</form>
